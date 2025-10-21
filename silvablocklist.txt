@@ -1,2 +1,3 @@
 prod-pre.fns.tunein.com
 chunks.tunein.com
+spectrum.s3.amazonaws.com
