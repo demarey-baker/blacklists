@@ -1,3 +1,5 @@
 prod-pre.fns.tunein.com
 chunks.tunein.com
 spectrum.s3.amazonaws.com
+dab.allfootballapp.com
+ap.allfootballapp.com.eo.dnse1.com
