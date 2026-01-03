@@ -3,4 +3,3 @@ chunks.tunein.com
 spectrum.s3.amazonaws.com
 dab.allfootballapp.com
 ap.allfootballapp.com.eo.dnse1.com
-api.allfootballapp.com.eo.dnse1.com
